@@ -1,0 +1,19 @@
+p {
+    float: none;
+    
+
+}
+img {
+    height: 210px;
+    width: 210px;
+    float: left;
+    padding: 10px;
+}
+footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+}
+.bottom {
+    text-align: center;
+}
